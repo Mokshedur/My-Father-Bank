@@ -1,19 +1,4 @@
-// document.getElementById("deposit-button").addEventListener("click", function() {
-//     const depositInput = document.getElementById("deposit-input");
-//     const depositAmount = depositInput.value;
-//     const depositTotal = document.getElementById("deposit-total");
-//     const depositTotalText = depositTotal.innerText;
 
-//     depositTotal.innerText = depositAmount;
-//     depositInput.value = '';
-//     alert(depositAmount + "Money added")
-// });
-// document.getElementById("withdraw-button").addEventListener("click", function () {
-
-// });
-// document.getElementById("close").addEventListener("click", function () {
-//     document.getElementById("myModal").style.display = "none";
-// });
 function doubleIt(num) {
     const result = num * 2;
     return result;
